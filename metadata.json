@@ -1,0 +1,6 @@
+{
+  "name": "Client Lead Management System (Mini CRM)",
+  "description": "Full-stack Mini CRM system to manage leads, follow-ups, and notes for Future Interns Full Stack Web Development Internship Task 2 (FUTURE_FS_02).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
